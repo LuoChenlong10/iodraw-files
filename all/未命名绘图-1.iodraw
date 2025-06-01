@@ -124,6 +124,11 @@
         <mxCell id="xh0eTBhMubvifRdemTQC-37" value="测试项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="770" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xh0eTBhMubvifRdemTQC-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.0000000000002" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-38" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="610" width="80" height="80" as="geometry" />
         </mxCell>
