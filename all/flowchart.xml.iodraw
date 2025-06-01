@@ -22,6 +22,16 @@
         <mxCell id="U_vNwMi5af9QqS6zOJ_m-5" value="&lt;span style=&quot;color: rgb(21, 71, 91); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Token是否有效？&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="220" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="U_vNwMi5af9QqS6zOJ_m-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U_vNwMi5af9QqS6zOJ_m-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="383" y="420" />
+              <mxPoint x="390" y="420" />
+              <mxPoint x="390" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U_vNwMi5af9QqS6zOJ_m-7" value="&lt;span style=&quot;color: rgb(21, 71, 91); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;使用Refresh Token续签或重新登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="360" width="150" height="50" as="geometry" />
         </mxCell>
@@ -56,6 +66,9 @@
           <mxGeometry x="340" y="860" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U_vNwMi5af9QqS6zOJ_m-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U_vNwMi5af9QqS6zOJ_m-22" target="U_vNwMi5af9QqS6zOJ_m-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_vNwMi5af9QqS6zOJ_m-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.805;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U_vNwMi5af9QqS6zOJ_m-5" target="U_vNwMi5af9QqS6zOJ_m-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
