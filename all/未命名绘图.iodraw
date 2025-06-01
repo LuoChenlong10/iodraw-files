@@ -46,12 +46,6 @@
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-17" value="VUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="200" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4RJQFRZK4L_fpcpPhYV7-18" value="VueRoute" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="200" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4RJQFRZK4L_fpcpPhYV7-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="250" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-20" value="webpack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="250" width="70" height="40" as="geometry" />
         </mxCell>
