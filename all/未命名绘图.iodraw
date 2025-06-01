@@ -130,7 +130,7 @@
           <mxGeometry x="590" y="630" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-55" value="管理系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="785" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-56" value="缺陷管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="690" width="90" height="30" as="geometry" />
@@ -145,7 +145,7 @@
           <mxGeometry x="475" y="550" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="590" width="180" height="140" as="geometry" />
+          <mxGeometry x="230" y="500" width="180" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
