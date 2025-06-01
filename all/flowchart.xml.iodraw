@@ -33,9 +33,6 @@
         <mxCell id="U_vNwMi5af9QqS6zOJ_m-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="460" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U_vNwMi5af9QqS6zOJ_m-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.459;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U_vNwMi5af9QqS6zOJ_m-7" target="U_vNwMi5af9QqS6zOJ_m-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
