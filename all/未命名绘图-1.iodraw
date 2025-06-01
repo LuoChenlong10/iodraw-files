@@ -67,7 +67,7 @@
           <mxGeometry x="680" y="200" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-20" value="测试任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="380" width="70" height="60" as="geometry" />
+          <mxGeometry x="920" y="470" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-23" target="xh0eTBhMubvifRdemTQC-20">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-26" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="410" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-29" target="xh0eTBhMubvifRdemTQC-19">
           <mxGeometry relative="1" as="geometry" />
