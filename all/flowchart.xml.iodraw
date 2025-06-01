@@ -13,11 +13,6 @@
         <mxCell id="U_vNwMi5af9QqS6zOJ_m-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U_vNwMi5af9QqS6zOJ_m-3" target="U_vNwMi5af9QqS6zOJ_m-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U_vNwMi5af9QqS6zOJ_m-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="U_vNwMi5af9QqS6zOJ_m-3" target="U_vNwMi5af9QqS6zOJ_m-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U_vNwMi5af9QqS6zOJ_m-3" value="&lt;span style=&quot;color: rgb(21, 71, 91); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;用户登录与权限校验&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="120" width="140" height="60" as="geometry" />
         </mxCell>
