@@ -220,6 +220,9 @@
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-105" value="持久化存储：Mysqll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="865" width="385" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4RJQFRZK4L_fpcpPhYV7-107" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="106" y="650" width="40" height="58" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
