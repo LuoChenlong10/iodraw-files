@@ -44,13 +44,8 @@
         <mxCell id="xh0eTBhMubvifRdemTQC-16" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xh0eTBhMubvifRdemTQC-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="240" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-20" value="测试步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="300" width="70" height="60" as="geometry" />
+          <mxGeometry x="825" y="200" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-25" value="测试环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="770" width="80" height="60" as="geometry" />
@@ -71,14 +66,6 @@
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-3" value="接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="770" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-34" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-37" target="xh0eTBhMubvifRdemTQC-41">
           <mxGeometry relative="1" as="geometry" />
