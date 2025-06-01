@@ -114,9 +114,6 @@
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-40" value="中间件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="425" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4RJQFRZK4L_fpcpPhYV7-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="490" width="600" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-47" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="780" width="90" height="30" as="geometry" />
         </mxCell>
@@ -124,7 +121,7 @@
           <mxGeometry x="760" y="865" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-49" value="业务流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="540" width="90" height="30" as="geometry" />
+          <mxGeometry x="660" y="785" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-50" value="定时任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="820" width="90" height="30" as="geometry" />
@@ -136,7 +133,7 @@
           <mxGeometry x="495" y="910" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-57" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="590" width="90" height="30" as="geometry" />
+          <mxGeometry x="240" y="780" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-58" value="环境管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="910" width="90" height="30" as="geometry" />
