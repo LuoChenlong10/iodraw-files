@@ -61,7 +61,7 @@
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="320" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4RJQFRZK4L_fpcpPhYV7-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4RJQFRZK4L_fpcpPhYV7-28" value="静态资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="332.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
