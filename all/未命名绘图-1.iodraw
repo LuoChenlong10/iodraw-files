@@ -33,12 +33,17 @@
           <mxGeometry x="280" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-7" value="url" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="820" y="690" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.364;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-7" target="xh0eTBhMubvifRdemTQC-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="280" as="sourcePoint" />
             <mxPoint x="170" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xh0eTBhMubvifRdemTQC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="919.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-12" value="请求方法" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -51,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-14" value="接口名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="880" width="100" height="50" as="geometry" />
+          <mxGeometry x="860" y="880" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-16" target="xh0eTBhMubvifRdemTQC-2">
           <mxGeometry relative="1" as="geometry" />
