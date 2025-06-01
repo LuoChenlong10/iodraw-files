@@ -162,7 +162,7 @@
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-81" value="业务流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="610" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4RJQFRZK4L_fpcpPhYV7-82" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4RJQFRZK4L_fpcpPhYV7-82" value="测试计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="650" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-83" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
