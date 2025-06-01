@@ -186,6 +186,9 @@
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="520" width="120" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="4RJQFRZK4L_fpcpPhYV7-91" value="接口测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="777.5" y="560" width="85" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
