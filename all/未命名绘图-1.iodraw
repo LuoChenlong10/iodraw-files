@@ -64,7 +64,7 @@
             <mxPoint x="200" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-3">
+        <mxCell id="xh0eTBhMubvifRdemTQC-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-3" target="xh0eTBhMubvifRdemTQC-73">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="550" as="targetPoint" />
           </mxGeometry>
@@ -173,7 +173,7 @@
         <mxCell id="xh0eTBhMubvifRdemTQC-72" value="测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="210" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-73" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xh0eTBhMubvifRdemTQC-73" value="选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
