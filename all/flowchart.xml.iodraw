@@ -37,7 +37,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U_vNwMi5af9QqS6zOJ_m-16" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="540" width="100" height="100" as="geometry" />
+          <mxGeometry x="320" y="540" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U_vNwMi5af9QqS6zOJ_m-17" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="620" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
