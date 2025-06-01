@@ -50,11 +50,10 @@
         <mxCell id="xh0eTBhMubvifRdemTQC-16" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-19" target="xh0eTBhMubvifRdemTQC-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-19" value="测试记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="210" width="80" height="60" as="geometry" />
+        <mxCell id="xh0eTBhMubvifRdemTQC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xh0eTBhMubvifRdemTQC-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="240" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-20" value="测试套件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="480" width="70" height="60" as="geometry" />
@@ -62,14 +61,13 @@
         <mxCell id="xh0eTBhMubvifRdemTQC-25" value="测试环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="770" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-29" target="xh0eTBhMubvifRdemTQC-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xh0eTBhMubvifRdemTQC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-29" value="选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="200" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-32" value="测试报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="210" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.404;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-14" target="xh0eTBhMubvifRdemTQC-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,8 +78,10 @@
         <mxCell id="xh0eTBhMubvifRdemTQC-3" value="接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="770" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-34" target="xh0eTBhMubvifRdemTQC-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xh0eTBhMubvifRdemTQC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-34" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="200" width="80" height="80" as="geometry" />
@@ -112,8 +112,10 @@
         <mxCell id="xh0eTBhMubvifRdemTQC-41" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-44" target="xh0eTBhMubvifRdemTQC-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xh0eTBhMubvifRdemTQC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-44" value="执行" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="330" width="80" height="80" as="geometry" />
