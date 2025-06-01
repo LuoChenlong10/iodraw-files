@@ -41,11 +41,6 @@
             <mxPoint x="170" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xh0eTBhMubvifRdemTQC-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="919.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-12" value="请求方法" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="890" width="90" height="60" as="geometry" />
         </mxCell>
