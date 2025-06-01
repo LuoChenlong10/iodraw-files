@@ -49,7 +49,7 @@
             <mxPoint x="810" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-20" value="测试套件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xh0eTBhMubvifRdemTQC-20" value="测试用例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="300" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-25" value="测试环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -182,7 +182,7 @@
           <mxGeometry x="410" y="210" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-73" value="创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="620" width="80" height="80" as="geometry" />
+          <mxGeometry x="810" y="510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
