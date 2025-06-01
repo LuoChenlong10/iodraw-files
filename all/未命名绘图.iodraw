@@ -120,7 +120,7 @@
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="510" width="210" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="4RJQFRZK4L_fpcpPhYV7-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4RJQFRZK4L_fpcpPhYV7-47" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -139,7 +139,7 @@
           <mxGeometry x="340" y="670" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1000" width="90" height="30" as="geometry" />
+          <mxGeometry x="340" y="580" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4RJQFRZK4L_fpcpPhYV7-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="90" height="30" as="geometry" />
