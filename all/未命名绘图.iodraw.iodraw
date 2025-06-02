@@ -73,7 +73,7 @@
         <mxCell id="W06coe0XAvmVJHh8EWdT-25" value="用例4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W06coe0XAvmVJHh8EWdT-26" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="W06coe0XAvmVJHh8EWdT-26" value="接口1用例" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
