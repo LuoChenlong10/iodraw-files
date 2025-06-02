@@ -70,8 +70,8 @@
         <mxCell id="W06coe0XAvmVJHh8EWdT-24" value="用例3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W06coe0XAvmVJHh8EWdT-25" value="用例1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="660" width="60" height="30" as="geometry" />
+        <mxCell id="W06coe0XAvmVJHh8EWdT-25" value="用例4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="782" y="660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
