@@ -166,7 +166,7 @@
             <mxPoint x="405" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W06coe0XAvmVJHh8EWdT-52" value="接口1用例" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="W06coe0XAvmVJHh8EWdT-52" value="测试任务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
