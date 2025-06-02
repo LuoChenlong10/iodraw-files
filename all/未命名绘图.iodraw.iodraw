@@ -170,7 +170,10 @@
           <mxGeometry x="545" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-53" value="执行记录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="680" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W06coe0XAvmVJHh8EWdT-54" value="测试计划" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="730" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
