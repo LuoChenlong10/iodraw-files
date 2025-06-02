@@ -113,10 +113,10 @@
           <mxGeometry x="415" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-37" value="场景4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="940" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-38" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1220" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-40" value="场景测试（业务流）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="310" width="60" height="30" as="geometry" />
