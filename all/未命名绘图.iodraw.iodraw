@@ -65,10 +65,10 @@
           <mxGeometry x="295" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="450" width="90" height="130" as="geometry" />
+          <mxGeometry x="280" y="440" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-24" value="用例3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="295" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-25" value="用例4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="782" y="660" width="60" height="30" as="geometry" />
