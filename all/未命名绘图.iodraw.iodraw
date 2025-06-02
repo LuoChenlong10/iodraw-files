@@ -274,6 +274,9 @@
         <mxCell id="W06coe0XAvmVJHh8EWdT-78" value="测试环境" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="680" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="W06coe0XAvmVJHh8EWdT-79" value="环境1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="740" width="85" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
