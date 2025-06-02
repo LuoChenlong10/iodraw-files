@@ -37,6 +37,9 @@
         <mxCell id="W06coe0XAvmVJHh8EWdT-12" value="接口2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="350" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="W06coe0XAvmVJHh8EWdT-13" value="接口1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
