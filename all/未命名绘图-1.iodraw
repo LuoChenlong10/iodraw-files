@@ -114,9 +114,6 @@
             <mxPoint x="400" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xh0eTBhMubvifRdemTQC-60" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="30" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-61" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="50" width="80" height="50" as="geometry" />
         </mxCell>
@@ -145,7 +142,7 @@
           <mxGeometry x="760" y="80" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-81" value="后置脚本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="320" width="80" height="50" as="geometry" />
+          <mxGeometry x="1170" y="240" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xh0eTBhMubvifRdemTQC-82" value="测试记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="470" width="80" height="60" as="geometry" />
