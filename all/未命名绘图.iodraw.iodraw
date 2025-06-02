@@ -35,7 +35,7 @@
           <mxGeometry x="185" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-12" value="接口2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="185" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-13" value="接口3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="460" width="60" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="280" y="440" width="90" height="160" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-24" value="用例3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="295" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-25" value="用例4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="520" width="60" height="30" as="geometry" />
