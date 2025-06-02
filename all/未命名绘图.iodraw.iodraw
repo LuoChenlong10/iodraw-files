@@ -241,11 +241,11 @@
             <mxPoint x="655" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W06coe0XAvmVJHh8EWdT-69" value="测试报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W06coe0XAvmVJHh8EWdT-69" value="测试报告1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W06coe0XAvmVJHh8EWdT-70" value="测试报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="730" width="60" height="30" as="geometry" />
+        <mxCell id="W06coe0XAvmVJHh8EWdT-70" value="测试报告2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
