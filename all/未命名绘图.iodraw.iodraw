@@ -11,7 +11,7 @@
           <mxGeometry x="150" y="140" width="770" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-3" value="登录鉴权" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
