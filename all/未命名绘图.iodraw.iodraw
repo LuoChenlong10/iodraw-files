@@ -178,6 +178,15 @@
         <mxCell id="W06coe0XAvmVJHh8EWdT-55" value="任务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="730" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="W06coe0XAvmVJHh8EWdT-56" value="任务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W06coe0XAvmVJHh8EWdT-57" value="任务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W06coe0XAvmVJHh8EWdT-58" value="任务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
