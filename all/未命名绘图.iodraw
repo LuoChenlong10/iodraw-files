@@ -136,7 +136,7 @@
           <mxGeometry x="40" y="430" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-39" value="名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="80" width="80" height="50" as="geometry" />
+          <mxGeometry x="540" y="138" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-40" value="后置脚本" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="240" width="80" height="50" as="geometry" />
