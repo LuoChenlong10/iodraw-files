@@ -14,7 +14,7 @@
           <mxGeometry x="410" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-4" value="url" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="890" width="90" height="60" as="geometry" />
+          <mxGeometry x="928" y="887" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-5" value="请求方法" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="730" width="90" height="60" as="geometry" />
@@ -165,7 +165,7 @@
             <mxPoint x="610" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sLdmI0D3W36uR2KN5amc-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sLdmI0D3W36uR2KN5amc-4" edge="1">
+        <mxCell id="sLdmI0D3W36uR2KN5amc-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.41;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sLdmI0D3W36uR2KN5amc-4" edge="1" target="sLdmI0D3W36uR2KN5amc-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="880" as="sourcePoint" />
             <mxPoint x="1010" y="830" as="targetPoint" />
