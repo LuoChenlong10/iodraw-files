@@ -29,7 +29,7 @@
           <mxGeometry x="1080" y="860" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-8" value="测试步骤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="235" width="70" height="60" as="geometry" />
+          <mxGeometry x="940" y="226" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-9" value="测试环境" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="770" width="80" height="60" as="geometry" />
