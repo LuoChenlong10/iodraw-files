@@ -70,7 +70,7 @@
           <mxGeometry x="740" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-21" value="名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="677" y="444" width="90" height="50" as="geometry" />
+          <mxGeometry x="670" y="447" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-22" value="创建人" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="690" width="90" height="50" as="geometry" />
