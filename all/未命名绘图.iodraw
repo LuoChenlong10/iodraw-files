@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-2" value="测试任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="470" width="80" height="60" as="geometry" />
+          <mxGeometry x="557" y="487" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-3" value="执行" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="415" y="484" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-4" value="url" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="928" y="887" width="90" height="60" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="740" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-21" value="名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="447" y="560" width="90" height="50" as="geometry" />
+          <mxGeometry x="744" y="560" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-22" value="创建人" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="690" width="90" height="50" as="geometry" />
