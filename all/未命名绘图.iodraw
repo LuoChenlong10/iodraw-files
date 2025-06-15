@@ -29,7 +29,7 @@
           <mxGeometry x="996" y="860" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-8" value="测试步骤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="226" width="70" height="60" as="geometry" />
+          <mxGeometry x="901" y="236" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-9" value="测试环境" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="770" width="80" height="60" as="geometry" />
@@ -340,7 +340,7 @@
           <mxGeometry x="950" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;N&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="890" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="808" y="219" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-86" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;N&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="599" y="296" width="60" height="30" as="geometry" />
