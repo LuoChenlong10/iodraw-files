@@ -29,7 +29,7 @@
           <mxGeometry x="1080" y="860" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-8" value="测试步骤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="210" width="70" height="60" as="geometry" />
+          <mxGeometry x="960" y="235" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLdmI0D3W36uR2KN5amc-9" value="测试环境" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="770" width="80" height="60" as="geometry" />
@@ -201,7 +201,7 @@
             <mxPoint x="980" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sLdmI0D3W36uR2KN5amc-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="sLdmI0D3W36uR2KN5amc-10" edge="1">
+        <mxCell id="sLdmI0D3W36uR2KN5amc-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sLdmI0D3W36uR2KN5amc-10" edge="1" target="sLdmI0D3W36uR2KN5amc-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="290" as="sourcePoint" />
             <mxPoint x="970" y="240" as="targetPoint" />
