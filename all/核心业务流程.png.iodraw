@@ -266,7 +266,7 @@
           <mxGeometry x="150" y="633" width="780" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-78" value="测试环境" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="680" width="60" height="30" as="geometry" />
+          <mxGeometry x="165" y="643" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-79" value="环境1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="643" width="145" height="30" as="geometry" />
@@ -275,12 +275,18 @@
           <mxGeometry x="439" y="643" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-81" value="环境3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685" y="680" width="165" height="30" as="geometry" />
+          <mxGeometry x="680" y="643" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-88" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="700" as="sourcePoint" />
             <mxPoint x="120" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1HQGaRdJviChRjo_H_--2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="631" y="297" as="sourcePoint" />
+            <mxPoint x="681" y="247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
