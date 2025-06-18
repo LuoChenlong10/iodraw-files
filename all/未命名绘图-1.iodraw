@@ -50,7 +50,7 @@
           <mxGeometry x="580" y="100" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2YeKX-FESJSlBGjG6SG-17" value="测试步骤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="50" width="70" height="40" as="geometry" />
+          <mxGeometry x="380" y="50" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
