@@ -37,7 +37,7 @@
         <mxCell id="x2YeKX-FESJSlBGjG6SG-12" value="请求头" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="-40" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x2YeKX-FESJSlBGjG6SG-13" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2YeKX-FESJSlBGjG6SG-13" value="前置脚本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="100" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2YeKX-FESJSlBGjG6SG-14" value="步骤标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
