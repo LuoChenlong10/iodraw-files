@@ -289,12 +289,6 @@
             <mxPoint x="580" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W06coe0XAvmVJHh8EWdT-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.578;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="W06coe0XAvmVJHh8EWdT-31" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="240" as="sourcePoint" />
-            <mxPoint x="580" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="W06coe0XAvmVJHh8EWdT-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.431;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="W06coe0XAvmVJHh8EWdT-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="240" as="sourcePoint" />
