@@ -52,7 +52,7 @@
         <mxCell id="x2YeKX-FESJSlBGjG6SG-17" value="测试场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="-70" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x2YeKX-FESJSlBGjG6SG-18" value="测试任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2YeKX-FESJSlBGjG6SG-18" value="测试计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2YeKX-FESJSlBGjG6SG-19" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
