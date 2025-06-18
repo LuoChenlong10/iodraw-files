@@ -7,14 +7,14 @@
         <mxCell id="x2YeKX-FESJSlBGjG6SG-1" value="测试项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x2YeKX-FESJSlBGjG6SG-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2YeKX-FESJSlBGjG6SG-2" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="230" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2YeKX-FESJSlBGjG6SG-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2YeKX-FESJSlBGjG6SG-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="70" height="40" as="geometry" />
+          <mxGeometry x="460" y="340" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
