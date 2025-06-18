@@ -8,7 +8,7 @@
           <mxGeometry x="380" y="290" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2YeKX-FESJSlBGjG6SG-3" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="240" width="70" height="40" as="geometry" />
+          <mxGeometry x="310" y="230" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2YeKX-FESJSlBGjG6SG-4" value="负责人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="340" width="70" height="40" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="x2YeKX-FESJSlBGjG6SG-6" value="项目接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x2YeKX-FESJSlBGjG6SG-7" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="200" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
